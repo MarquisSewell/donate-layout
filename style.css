@@ -79,3 +79,14 @@ h4 {
 h1 {
   font-family: 'Audiowide', cursive;
 }
+
+.centerThumb .span4 {
+  float: none;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.centerThumb {
+  text-align: center
+}
