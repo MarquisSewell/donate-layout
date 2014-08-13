@@ -17,6 +17,16 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
+.thumbnails { 
+  text-align: center; 
+}
+
+.thumbnails li { 
+  display: inline-block; 
+  margin: 0; 
+  float: none; 
+}
+
 Footer {
 display:block;
 position: fixed;
